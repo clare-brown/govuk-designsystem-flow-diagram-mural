@@ -11,7 +11,7 @@ A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/16601
 2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for MURAL](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1660126757244/a18e7737b3a8c9b507dd02e5cafcb73e660ddaf5?sender=u88f21b544bf2ceb924a42629)
 3. Find the following components:
 
-![The components to copy from](component-example.png)
+![The components to copy from](mural-component-example.png)
 
 4. Select all the flow diagram components (CMD/CTRL + A)
 5. Copy them to your clipboard (Press CMD/CTRL + C)
