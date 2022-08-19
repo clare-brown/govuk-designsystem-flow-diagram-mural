@@ -17,7 +17,7 @@ A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/16601
 5. Copy them to your clipboard (Press CMD/CTRL + C)
 6. Switch over to your MURAL board in the other window or tab
 7. Paste the components into your MURAL board (CMD/CTRL + V)
-8. Complete! Now you have editable compponents to map out your service
+8. Complete! Now you have editable components to map out your service
 
 ## See version in MURAL
 
