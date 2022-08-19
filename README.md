@@ -1,4 +1,4 @@
-# GOVUK Design System Flow Diagrams for MURAL
+# GOVUK Design System Flow Diagram for MURAL
 A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1660126757244/a18e7737b3a8c9b507dd02e5cafcb73e660ddaf5?sender=u88f21b544bf2ceb924a42629) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
 
 ![Preview screenshot of the MURAL file](mural-preview.png)
