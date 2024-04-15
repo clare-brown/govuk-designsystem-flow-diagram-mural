@@ -1,5 +1,5 @@
 # GOVUK Design System Flow Diagrams for MURAL
-A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1660126757244/a18e7737b3a8c9b507dd02e5cafcb73e660ddaf5?sender=u88f21b544bf2ceb924a42629) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
+A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1658237396824/976384627724da365e8cb6790c2c39503a342275?sender=u88f21b544bf2ceb924a42629) of a popular [GOVUK Design System](https://gov.uk/design-system) based flow diagram developed by the GOVDESIGN community.
 
 ![Preview screenshot of the MURAL file](mural-preview.png)
 
@@ -8,7 +8,7 @@ A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/16601
 ### Instructions to copy to your own MURAL board
 
 1. Create a new MURAL board or open an existing board that you would like to add the flow diagram to
-2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for MURAL](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1660126757244/a18e7737b3a8c9b507dd02e5cafcb73e660ddaf5?sender=u88f21b544bf2ceb924a42629)
+2. In a new tab or window go to the publically accessible version of the [GOVUK Design System Flow Diagram for MURAL](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1658237396824/976384627724da365e8cb6790c2c39503a342275?sender=u88f21b544bf2ceb924a42629)
 3. Find the following components:
 
 ![The components to copy from](mural-component-example.png)
@@ -21,7 +21,7 @@ A [MURAL version](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/16601
 
 ## See version in MURAL
 
-[View this file in MURAL](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1660126757244/a18e7737b3a8c9b507dd02e5cafcb73e660ddaf5?sender=u88f21b544bf2ceb924a42629)
+[View this file in MURAL](https://app.mural.co/t/digitalhmrc9032/m/digitalhmrc9032/1658237396824/976384627724da365e8cb6790c2c39503a342275?sender=u88f21b544bf2ceb924a42629)
 
 ## Credit
 
